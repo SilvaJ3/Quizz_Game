@@ -1,24 +1,5 @@
-# project4-quizz_game
+# Quizz Game en Vue Js
 
-## Project setup
-```
-npm install
-```
+Questionnaire réalisé en Vue Js avec utilisation de l'API Open Trivia DB
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Thème choisi : Mythologie grecque
